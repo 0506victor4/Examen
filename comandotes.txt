@@ -1,0 +1,500 @@
+   34  pwd
+   35  make invenatarios
+   36  make inventarios
+   37  ./inventarios
+   38  pwd
+   39  cd Programacion
+   40  mkdir C
+   41  cd C
+   42  touch practica1.c
+   43  make practica1
+   44  make practica1
+   45  make practica1
+   46  ./practica1
+   47  make practica1
+   48  ./practica1
+   49  make practica1
+   50  ./practica1
+   51  make practica1
+   52  ./practica1
+   53  make practica1
+   54  ./practica1
+   55  pwd
+   56  cd Programacion
+   57  touch table.c
+   58  cd table.c
+   59  pwd
+   60  cd
+   61  pwd
+   62  cd Programacion
+   63  cd C
+   64  touch table.c
+   65  cd table.c
+   66  pwd
+   67  cd table.c
+   68  make table.c
+   69  n
+   70  pwd
+   71  cd Programacion
+   72  cd C
+   73  make table
+   74  make table
+   75  make table
+   76  make table
+   77  ./table
+   78  make table
+   79  ./table
+   80  make table
+   81  ./table
+   82  make table
+   83  ./tale
+   84  make table
+   85  ./table
+   86  make table
+   87  ./table
+   88  pwd
+   89  cd
+   90  pwd
+   91  cd Programacion
+   92  cd cd
+   93  cd
+   94  pwd
+   95  cd Programacion
+   96  mkdir Python
+   97  cd Python
+   98  touch table.py
+   99  make table
+  100  make table
+  101  make table.py
+  102  ./table
+  103  pwd
+  104  touch table2.py
+  105  make table2
+  106  cd
+  107  PWD
+  108  pwd
+  109  cd Programacion
+  110  cd Python
+  111  make table2
+  112  pwd
+  113  cd Programacion
+  114  cd Python
+  115  python
+  116  pwd
+  117  cd Programacion
+  118  cd Python
+  119  make pares
+  120  touch pares
+  121  touch pares.py
+  122  touch pares.c
+  123  make pares
+  124  make pares
+  125  make pares
+  126  ./pares
+  127  make pares
+  128  ./pares
+  129  cd
+  130  pwd
+  131  cd Programacion
+  132  cd C
+  133  touch pares.c
+  134  touch pares
+  135  ./pares
+  136  ./pares
+  137  cd
+  138  pwd
+  139  cd Programacion
+  140  cd C
+  141  make pares
+  142  ./pares
+  143  pwd
+  144  cd
+  145  pwd
+  146  cd Programacion
+  147  cd Python
+  148  make pares.py
+  149  make pares.py
+  150  cd
+  151  pwd
+  152  cd Programacion
+  153  cd Python
+  154  make pares.py
+  155  make pares
+  156  touch pares.py
+  157  pwd
+  158  cd Programacion
+  159  pwd
+  160  cd
+  161  pwd
+  162  cd Programacion
+  163  mkdir Fuctions
+  164  mkdir functions
+  165  cd fuctions
+  166  code meow.c
+  167  cd fuctions
+  168  pwd
+  169  pwd
+  170  cd
+  171  pwd
+  172  cd Programacion
+  173  cd fuctions
+  174  cd Fuctions
+  175  cd functions
+  176  cd meow
+  177  touch meow
+  178  make meow
+  179  make meow
+  180  ./meow
+  181  make meow
+  182  ./meow
+  183  make meow
+  184  ./meow
+  185  make meow
+  186  ./meow
+  187  make meow
+  188  make meow
+  189  ./meow
+  190  make meow
+  191  make meow
+  192  ./meow
+  193  make meow
+  194  make meow
+  195  make meow
+  196  ./meow
+  197  make meow
+  198  ./meow
+  199  make meow
+  200  ./meow
+  201  make meow
+  202  make meow
+  203  make meow
+  204  ./meow
+  205  make meow
+  206  ./meow
+  207  make  meow 
+  208  make meow
+  209  make meow
+  210  make meow
+  211  ./meow
+  212  make meow
+  213  make meow 
+  214  ./meow
+  215  make meow
+  216  make meow 
+  217  ./meow
+  218  make meow
+  219  ./meow
+  220  make meow 
+  221  ./meow
+  222  make meow
+  223  ./meow
+  224  make meow
+  225  ./meow
+  226  make meow
+  227  ./meow
+  228  make meow
+  229  ./meow
+  230  1000
+  231  make meow
+  232  ./ meow 
+  233  make meow
+  234  ./meow
+  235  touch meow.py
+  236  cd /workspaces/179767745/Programacion/functions
+  237  /usr/local/bin/python /workspaces/179767745/Programacion/functions/meow.py
+  238  make meow
+  239  ./meow
+  240  make meow
+  241  ./meow
+  242  make meow
+  243  ./meow
+  244  cd
+  245  pwd
+  246  cd Programacion
+  247  cd functions
+  248  5
+  249  5
+  250   /usr/bin/env /usr/local/bin/python /home/ubuntu/.vscode-remote/extensions/ms-python.debugpy-2024.12.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 35845 -- /workspaces/179767745/Programacion/functions/meow.py 
+  251  make meow 
+  252  ./meow
+  253  make meow
+  254  ./meow
+  255  make meow
+  256  ./meow
+  257  pwd
+  258  cd C
+  259  cd C
+  260  pwd
+  261  pwd 
+  262  cd Programacion
+  263  cd C
+  264  touch meow
+  265  pwd
+  266  mkdir playground; cd playground
+  267  touch modules.c
+  268  make modules
+  269  ./modules
+  270  make modules
+  271  ./modules
+  272  make modules
+  273  make modules
+  274  make modules
+  275  ./modules
+  276  make modules
+  277  make modules
+  278  ./modules
+  279  make modules
+  280  ./modules
+  281  make modules
+  282  make modules
+  283  make modules
+  284  ./modules
+  285  make modules
+  286  ./modules
+  287  make modules
+  288  make modules
+  289  ./modules
+  290  make modules
+  291  ./modules
+  292  make modules
+  293  make modules
+  294  ./modules
+  295  1
+  296  make modules
+  297  make modules
+  298  make modules
+  299  ./modules
+  300  make modules
+  301  make modules
+  302  make modules
+  303  make modules
+  304  ./modules
+  305  make codemario.c
+  306  code mario.c
+  307  touch mario.c
+  308  make mario.c
+  309  ./mario
+  310  make mario
+  311  ./mario
+  312  make mario
+  313  make mario
+  314  make mario
+  315  make mario
+  316  make mario
+  317  make mario
+  318  make mario
+  319  ./mario
+  320  make mario
+  321  ./
+  322  ./mario
+  323  make mario
+  324  make mario
+  325  make mario
+  326  ./mario
+  327  make mario
+  328  make mario
+  329  make mario
+  330  make mario
+  331  ./mario
+  332  25
+  333  make mario
+  334  make mario
+  335  make mario
+  336  ./mario
+  337  make mario
+  338  ./mario
+  339  make mario
+  340  make mario
+  341  make mario
+  342  ./mario
+  343  make mario
+  344  make mario
+  345  make mario
+  346  make mario
+  347  make mario
+  348  make mario
+  349  make mario
+  350  ./mario
+  351  make mario
+  352  ./mario
+  353  code examen.c
+  354  make exmane.c
+  355  make exame
+  356  make examen
+  357  make examen
+  358  make examen.c
+  359  make examen
+  360  make examen
+  361  make examen
+  362  ./n
+  363  ./ examen
+  364  ./examne
+  365  ./examen
+  366  pwd
+  367  cd
+  368  pwdpwd
+  369  mkdir examen
+  370  cd examen
+  371  code programa.c
+  372  make programa 
+  373  make programa 
+  374  ./programa 
+  375  make programa
+  376  make programa 
+  377  make programa 
+  378  make programa 
+  379  ./programa
+  380  make programa 
+  381  make programa 
+  382  make programa 
+  383  make programa 
+  384  ./programa 
+  385  make programa 
+  386  ./programa 
+  387  make programa 
+  388  ./programa 
+  389  make programa 
+  390  ./programa 
+  391  make programa 
+  392  ./programa 
+  393  make programa 
+  394  ./programa 
+  395  make programa 
+  396  ./programa 
+  397  make programa 
+  398  ./programa 
+  399  make programa 
+  400  ./programa 
+  401  make programa 
+  402  ./programa 
+  403  make programa 
+  404  ./programa 
+  405  make programa 
+  406  ./programa 
+  407  make programa 
+  408  ./programa 
+  409  pwd
+  410  cd
+  411  mkdir Examen
+  412  code cd
+  413  pwd
+  414  cd ..
+  415  pwd
+  416  mkdir repositorio
+  417  cd repositorio
+  418  code Examen
+  419  code examen.c
+  420  make examen 
+  421  make examen 
+  422  make examen 
+  423  ./examen 
+  424  make examen 
+  425  make examen 
+  426  ./examen 
+  427  make examen 
+  428  ./examen
+  429  make examen 
+  430  ./examen 
+  431  make examen 
+  432  ./examen 
+  433  make examen 
+  434  ./examen 
+  435  make examen 
+  436  ./examen 
+  437  make examen 
+  438  cd ..
+  439  cd repositorio
+  440  as
+  441  pwd
+  442  cd ..
+  443  cd repositorio
+  444  code examen
+  445  a
+  446  cd..
+  447  cd ..
+  448  mkdir repositorio
+  449  cd repositorio/
+  450  mkdir examen.c
+  451  cd
+  452  pwd
+  453  cd repositorio
+  454  pwd
+  455  cd ..
+  456  pwd
+  457  mkdir repositorio
+  458  cd repositorio
+  459  code examen.c
+  460  make examen 
+  461  ./examen 
+  462  pwd
+  463  cd ..
+  464  cd ..
+  465  mkdir Examen
+  466  code code.c
+  467  make code 
+  468  ./
+  469  ./code
+  470  make code 
+  471  ./code
+  472  make code 
+  473  ./code
+  474  git init 
+  475  git status
+  476  cd..
+  477  cd ..
+  478  cd repositorio
+  479  ls
+  480  cd workspaces/
+  481  ls
+  482  cd Examen
+  483  git init
+  484  git status
+  485  git status
+  486  git commit -m "Primer Commit"
+  487  git remote add origin https://github.com/0506victor4/Programacion_Examen.git
+  488  git commit -m "Primer Avance"
+  489  git push
+  490  git status
+  491  git status
+  492  make code.c
+  493  make code
+  494  ls
+  495  cd ..
+  496  ls
+  497  cd Examen
+  498  ls
+  499  make code.c
+  500  n
+  501  cd Examen
+  502  make code
+  503  make code.c
+  504  y
+  505  make code.c
+  506  make code
+  507  pwd
+  508  cd ..
+  509  mkdir repositorio
+  510  cd repositorio/
+  511  code examen.c
+  512  make examen 
+  513  ./examen 
+  514  make examen 
+  515  ./examen 
+  516  make examen 
+  517  ./examen 
+  518  5
+  519  make examen 
+  520  ./examen 
+  521  git init 
+  522  git statu
+  523  git status
+  524  git add.
+  525  git commit -m "Avance"
+  526  git add .
+  527  git status
+  528  git commit -m "Avance"
+  529  git remote add origin https://github.com/0506victor4/Examen.git
+  530  git push
+  531  git push -u origin main
+  532  history
+  533  history > comandotes.txt
